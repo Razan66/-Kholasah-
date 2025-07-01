@@ -32,10 +32,6 @@ The app supports Arabic and English teams and ensures that important details are
 
 
 
-## Status
-
-Kholasah is currently a functional prototype developed as part of the Apple Developer Academy graduation project. Future updates may include UI improvements, multilingual transcription options, and advanced collaboration features.
-
 ## Contact
 
 For inquiries or feedback, reach us at:  

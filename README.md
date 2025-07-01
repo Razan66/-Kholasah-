@@ -1,5 +1,5 @@
 
-<img width="805" alt="Screenshot 1446-12-07 at 16 29 55" src="https://github.com/user-attachments/assets/ee573375-84fd-40aa-a4e6-d169befb2403" />
+
 
 # Kholasah خُلاصة – Smart Meeting Assistant
 
@@ -40,3 +40,5 @@ Kholasah is currently a functional prototype developed as part of the Apple Deve
 
 For inquiries or feedback, reach us at:  
 **Kholasah.Ksa@gmail.com**
+
+<img width="805" alt="Screenshot 1446-12-07 at 16 29 55" src="https://github.com/user-attachments/assets/ee573375-84fd-40aa-a4e6-d169befb2403" />
